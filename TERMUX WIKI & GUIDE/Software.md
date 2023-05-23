@@ -1,0 +1,11 @@
+- [Development Environments](https://wiki.termux.com/wiki/Development_Environments) 
+- [Differences from Linux](https://wiki.termux.com/wiki/Differences_from_Linux) 
+- [Editors](https://wiki.termux.com/wiki/Editors)
+- [Graphical Environment](https://wiki.termux.com/wiki/Graphical_Environment)
+- [Intents and Hooks](https://wiki.termux.com/wiki/Intents_and_Hooks)
+- [Package Management](https://wiki.termux.com/wiki/Package_Management)
+- [Package Tips](https://wiki.termux.com/wiki/Package_Tips)
+- [Remote Acess](https://wiki.termux.com/wiki/Remote_Access)
+- [Sharing Data](https://wiki.termux.com/wiki/Sharing_Data)
+- [Shells](https://wiki.termux.com/wiki/Shells)
+#TERMUX 
