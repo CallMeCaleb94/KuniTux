@@ -265,3 +265,5 @@ You may want to see man page (`rsync`) to learn more about it’s usage.
 See Also
 [Accessing Termux from the Internet](https://wiki.termux.com/wiki/Bypassing_NAT)
 [Connecting to termux with SSH over USB](https://glow.li/technology/2016/9/20/access-termux-via-usb/)
+
+#TERMUX #Linux 

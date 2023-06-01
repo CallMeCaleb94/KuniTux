@@ -37,3 +37,4 @@ Make sure after running these two commands the **_return value should look the 
 
 ![[Disbale-Phantom-Process-Killer-3-600x94.webp]]
 That means the phantom process killer is successfully disabled.
+#Android #TERMUX 

@@ -1,17 +1,8 @@
-## Navigation menu
-
-Toggle navigation [Termux Wiki](/wiki/Main_Page)
-
--   [Wiki](#)
-    -   [Recent changes](/wiki/Special:RecentChanges)
-    -   [Content Guidelines](/wiki/Termux_Wiki:Content_Guidelines)
-    -   [Login or Create Account](/wiki/Special:UserLogin)
 
 # Development Environments
 
 From Termux Wiki
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 Termux is often used for software development, information science education and experimentation. Here are some articles and links with information on how to make it possible with one of the following programming environments.
 
@@ -303,58 +294,5 @@ Homepage: [https://www.tcl.tk/](https://www.tcl.tk/)
 -   [Editors](/wiki/Editors "Editors")
 -   [IDEs](/wiki/IDEs "IDEs")
 
-Retrieved from "[https://wiki.termux.com/index.php?title=Development_Environments&oldid=6559](https://wiki.termux.com/index.php?title=Development_Environments&oldid=6559)"
 
-[Edit](/index.php?title=Development_Environments&action=edit "Edit this page [alt-shift-e]") [‌](#)
-
--   [History](/index.php?title=Development_Environments&action=history "Past revisions of this page [alt-shift-h]")
-
-## Contents[to top](javascript:scrollTo(0,0);)
-
--   [1 APKs](#APKs)
--   [2 C/C++](#C.2FC.2B.2B)
--   [3 Common Lisp](#Common_Lisp)
--   [4 D](#D)
--   [5 Dart](#Dart)
--   [6 Elixir](#Elixir)
--   [7 Erlang](#Erlang)
--   [8 Forth](#Forth)
--   [9 Go](#Go)
--   [10 Groovy](#Groovy)
--   [11 Haskell](#Haskell)
--   [12 Java](#Java)
-    -   [12.1 ECJ](#ECJ)
-    -   [12.2 OpenJDK](#OpenJDK)
--   [13 JavaScript](#JavaScript)
-    -   [13.1 NodeJS](#NodeJS)
--   [14 Kotlin](#Kotlin)
--   [15 Lua](#Lua)
--   [16 Nim](#Nim)
--   [17 OCaml](#OCaml)
--   [18 Octave](#Octave)
--   [19 Perl](#Perl)
--   [20 PHP](#PHP)
--   [21 Picolisp](#Picolisp)
--   [22 Prolog](#Prolog)
--   [23 Python](#Python)
--   [24 Racket](#Racket)
--   [25 Ruby](#Ruby)
--   [26 Rust](#Rust)
--   [27 Scala](#Scala)
--   [28 Scheme](#Scheme)
-    -   [28.1 TinyScheme](#TinyScheme)
-    -   [28.2 Guile](#Guile)
--   [29 Smalltalk](#Smalltalk)
--   [30 Swift](#Swift)
--   [31 Tcl](#Tcl)
--   [32 See Also](#See_Also)
-
--   [Privacy policy](/wiki/Termux_Wiki:Privacy_policy "Termux Wiki:Privacy policy")
--   [About Termux Wiki](/wiki/Termux_Wiki:About "Termux Wiki:About")
--   [Disclaimers](/wiki/Termux_Wiki:General_disclaimer "Termux Wiki:General disclaimer")
-
--   [Log in](/index.php?title=Special:UserLogin&returnto=Development+Environments "You are encouraged to log in; however, it is not mandatory [alt-shift-o]")
--   [Create account](/index.php?title=Special:CreateAccount&returnto=Development+Environments "You are encouraged to create an account and log in; however, it is not mandatory")
-
--   [Creative Commons Attribution](https://creativecommons.org/licenses/by/4.0/)
--   [Powered by MediaWiki](https://www.mediawiki.org/ #TERMUX 
+#TERMUX 

@@ -12,8 +12,7 @@ For changes to take effect after editing the proeprties file, either execute
 
 Force the application to use dark theme for drawer and dialogs with 
 
-``` 
-use-black-ui=true 
+``` use-black-ui=true 
 ``` 
 
 *FullScreen Mode

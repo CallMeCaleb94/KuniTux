@@ -5,7 +5,8 @@ The terminal emulator is basically an application that launches the command line
 Most terminall applications available on Android OS work with a very limited set of utilities which are usually provided either by the operating system or other rooting tools such as Magisk. We have decided to further and port common software usually available on GNU/Linux systems to Android OS.
 Termux is neither a virtual mach supported by default.
 ine nor any other kind of emulated or simulated environment. All provided packages are cross-compiled with Android NDK and only have compatibility patches to get them working on Android. The operating system does not provide full access to file systems so Termiux cannot install package files into standard directores such as /bin, /etc, /usr, or /var. Instead all files are installed into the private application directory located at
-```/data/data/com.termux/files/usr
+```
+/data/data/com.termux/files/usr
 ```
 We call that directory “prefix” and usually refer to it as “$PREFIX”, which is also an exported enviroment bariable in the Termux shell. Note that this directorry cannot be changed or moved to an SD-Card because:
 	- The File System must have supprot for unix permissions and special files such as symlinks or  sockets.
@@ -36,4 +37,6 @@ Normally Termux does not require to be rooted. In fact it’s primarily targeted
 - manipulate the parameters for the operating system or kernel
 - Non-interactivley install/uninstall APKs.
 - HAve full R/W access to hardware devices such as BT/Wi-fi modules
+#TERMUX 
+
 #TERMUX 

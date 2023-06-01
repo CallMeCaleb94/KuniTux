@@ -15,3 +15,5 @@ With video editors various Video manipulation can be done, including: cutting, c
 
 -   [IDEs](https://wiki.termux.com/wiki/IDEs "IDEs")
 -   [OCR](https://wiki.termux.com/wiki/OCR "OCR")
+
+#TERMUX 

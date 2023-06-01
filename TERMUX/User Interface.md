@@ -21,3 +21,5 @@ With a wake lock held the notification and Termux background processes will be a
 Graphical interface (via external vncviewer)
 
 Termiux also has a fairly basic graphical user interface supported based on X11. To enable Graphical Enviroment support see [Graphical Enviroment](https://wiki.termux.com/wiki/Graphical_Environment)
+
+#TERMUX 

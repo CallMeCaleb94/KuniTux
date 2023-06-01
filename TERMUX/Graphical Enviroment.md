@@ -166,5 +166,6 @@ Additional reccoemended packages for installation:
 - `mate-terminal`- Terminal emulator for MATE.
 
 **NOTES**
--Currently hardware accelaration is not
+-Currently hardware acceleration is not
+
 #TERMUX 
