@@ -2,7 +2,7 @@
 
 # The base installation for KunikOS version of termux
 
-exec yes | pkg upgrade --noconfirm
+exec yes | pkg upgrade
 
 # Now installing repos
 
