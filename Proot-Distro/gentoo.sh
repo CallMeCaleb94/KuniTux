@@ -1,6 +1,3 @@
-# Do not modify this file. All changes will be discarded on the next
-# package update.
-
 # Default value is set by proot-distro script and is equal to the CPU
 # architecture of your device. You can set this to a custom value to
 # force use emulation mode (QEMU user).
