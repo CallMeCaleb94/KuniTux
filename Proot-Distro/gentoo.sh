@@ -8,7 +8,7 @@
 #DISTRO_ARCH=aarch64
 
 # Name of distribution.
-DISTRO_NAME="Gentoo arm"
+DISTRO_NAME="Gentoo"
 
 # How much path components should be stripped when extracting rootfs tarball.
 # The default is "1" which means to omit the root component.
@@ -16,11 +16,11 @@ TARBALL_STRIP_OPT=1
 
 # TARBALL_URL is a Bash associative array containing rootfs URLs for specified
 # CPU architectures. You must specify at least one.
-TARBALL_URL['arm']="https://distfiles.gentoo.org/releases/arm/autobuilds/20230828T171640Z/stage3-armv7a-systemd-mergedusr-20230828T171640Z.tar.xz"
+TARBALL_URL['arm']="https://distfiles.gentoo.org/releases/arm/autobuilds/20231021T213201Z/stage3-armv7a-systemd-mergedusr-20231021T213201Z.tar.xz"
 
 # SHA-256 checksum for the given tarball. You must specify checksum for each
 # defined tarball.
-TARBALL_SHA256['arm']="3375db3f84700f7a6d851232f420f9415752c56733d564c6b1f2b402081b462a"
+TARBALL_SHA256['arm']="41aafb601d35893868828db7b4e10ffa005141f454deaab3743265ad5ffdc6fe"
 # This function defines any additional steps that should be execut
 # installation. You can use "run_proot_cmd" to execute a given command in
 # proot environment.
