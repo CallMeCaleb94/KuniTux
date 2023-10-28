@@ -1,5 +1,5 @@
 #!/bin/sh
-
+#Needs tweaking 
 exec git clone https://github.com/KunikoKodes/pacman-for-termux;
 cd pacman-for-termux && bash install.sh;
 
