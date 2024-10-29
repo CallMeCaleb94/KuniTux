@@ -28,17 +28,17 @@ x11-repo
 IF you decide to use VNC for graphical output, follow these instructions for properly setting up VNC server. 
 
 1. Install package `tigervnc`
-   ```
-   pkg install tigervnc
-   ```
+```
+pkg install tigervnc
+```
 2. After installation, execute this:
 ```
 vncserver -localhost
 ```
 
    After first time, you will be prompted for setting up passwords.
-```You will require a password to access your desktops
-
+```
+You will require a password to access your desktops
 Password:
 Verify:
 Would you like to enter a view-0nly password (y/n)? n
@@ -47,12 +47,14 @@ Would you like to enter a view-0nly password (y/n)? n
 *Note that passwords are not visible when you are typing them and maximal password length is 8 characters, minimum is 6*
 
 3. If everything is okay you will see this message:
-   ``New 'localhost:1 ()' desktop is localhost:``
-   ``Creating default startup script /data/data/com.termux/files/home/.vnc/xstartup``
-   ``Creating default config /data/data/com.termux/files/home/.vnc/config``
-   ``Starting applications specified in /data/data/com.termux/files/home/.vnc/xstartup``
-   ``Log file is`` ``/data/data/com.termux/files/home/.vnc/localhost:1.log``
+```
+New 'localhost:1 ()' desktop is localhost:
+Creating default startup script /data/data/com.termux/files/home/.vnc/xstartup
+Creating default config /data/data/com.termux/files/home/.vnc/config
+Starting applications specified in /data/data/com.termux/files/home/.vnc/xstartup
+Log file is /data/data/com.termux/files/home/.vnc/localhost:1.log
 It means that X (vnc) server is available for display ‘localhost:1’
+```
 
 1. Finally, to make programs do graphical output to the display `locahost.log` , set environment variable like shown here (yes, without soecifying `localhost`):
 ```
